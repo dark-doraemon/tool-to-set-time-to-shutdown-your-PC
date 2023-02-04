@@ -1,0 +1,28 @@
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\WPF CSharp.exe
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\WPF CSharp.deps.json
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\WPF CSharp.runtimeconfig.json
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\WPF CSharp.dll
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\WPF CSharp.pdb
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\AutoItX3.Assembly.dll
+D:\linhtinh\code co ban\WPF CSharp\bin\Debug\net6.0-windows\AutoItX3.Assembly.xml
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.csproj.AssemblyReference.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\Interop.AutoItX3Lib.dll
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.csproj.ResolveComReference.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\App.g.cs
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp_MarkupCompile.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp_MarkupCompile.lref
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.g.resources
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.AssemblyInfoInputs.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.AssemblyInfo.cs
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.csproj.CoreCompileInputs.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.csproj.CopyComplete
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.dll
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\refint\WPF CSharp.dll
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.pdb
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\WPF CSharp.genruntimeconfig.cache
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\ref\WPF CSharp.dll
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\notepad.g.cs
+D:\linhtinh\code co ban\WPF CSharp\obj\Debug\net6.0-windows\notepad.baml
